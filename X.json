@@ -3,5 +3,7 @@
   "Info" : true,
   "BlCR" : true,
   "Plan" : true,
-  "Gair" : true
+  "Gair" : true,
+  "GDoc" : true,
+  "TrFw" : true
 }
