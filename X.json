@@ -4,7 +4,7 @@
   "BlCR" : true,
   "Plan" : true,
   "Gair" : true,
-  "GDoc" : true,
+  "GDoc" : false,
   "TrFw" : true,
   "BLMK" : true,
   "FIMG" : true
